@@ -19,7 +19,7 @@ UIkit.use(Icons);
 ReactDOM.render(
   <React.StrictMode>
     <Provider store={store}>
-      <BrowserRouter>
+      <BrowserRouter basename="/emphasoft.project">
         <App/>
       </BrowserRouter>
     </Provider>
