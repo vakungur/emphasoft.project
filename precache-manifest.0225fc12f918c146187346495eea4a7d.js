@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "efc0b3dee259b05d9fdd9c79409485f3",
+    "revision": "8f51193bfd148953e28dc825f7e2f3b2",
     "url": "/emphasoft.project/index.html"
   },
   {
-    "revision": "79db14b6f5047ec6e204",
+    "revision": "aca5ead42b5ac427b62f",
     "url": "/emphasoft.project/static/css/2.fe7cd3c1.chunk.css"
   },
   {
-    "revision": "990bae895c9589d51f88",
+    "revision": "a7ff4fc3128f63b6dac5",
     "url": "/emphasoft.project/static/css/main.3a2413b6.chunk.css"
   },
   {
-    "revision": "79db14b6f5047ec6e204",
-    "url": "/emphasoft.project/static/js/2.23e74226.chunk.js"
+    "revision": "aca5ead42b5ac427b62f",
+    "url": "/emphasoft.project/static/js/2.f6b9220b.chunk.js"
   },
   {
     "revision": "513eaf41fd00af7b5315e05327e556e9",
-    "url": "/emphasoft.project/static/js/2.23e74226.chunk.js.LICENSE.txt"
+    "url": "/emphasoft.project/static/js/2.f6b9220b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "990bae895c9589d51f88",
-    "url": "/emphasoft.project/static/js/main.d4279fb8.chunk.js"
+    "revision": "a7ff4fc3128f63b6dac5",
+    "url": "/emphasoft.project/static/js/main.f2b20c4e.chunk.js"
   },
   {
     "revision": "987f0b74fc921c2fb2f9",

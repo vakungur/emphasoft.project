@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/emphasoft.project/static/css/main.3a2413b6.chunk.css",
-    "main.js": "/emphasoft.project/static/js/main.d4279fb8.chunk.js",
-    "main.js.map": "/emphasoft.project/static/js/main.d4279fb8.chunk.js.map",
+    "main.js": "/emphasoft.project/static/js/main.f2b20c4e.chunk.js",
+    "main.js.map": "/emphasoft.project/static/js/main.f2b20c4e.chunk.js.map",
     "runtime-main.js": "/emphasoft.project/static/js/runtime-main.4a57ac07.js",
     "runtime-main.js.map": "/emphasoft.project/static/js/runtime-main.4a57ac07.js.map",
     "static/css/2.fe7cd3c1.chunk.css": "/emphasoft.project/static/css/2.fe7cd3c1.chunk.css",
-    "static/js/2.23e74226.chunk.js": "/emphasoft.project/static/js/2.23e74226.chunk.js",
-    "static/js/2.23e74226.chunk.js.map": "/emphasoft.project/static/js/2.23e74226.chunk.js.map",
+    "static/js/2.f6b9220b.chunk.js": "/emphasoft.project/static/js/2.f6b9220b.chunk.js",
+    "static/js/2.f6b9220b.chunk.js.map": "/emphasoft.project/static/js/2.f6b9220b.chunk.js.map",
     "index.html": "/emphasoft.project/index.html",
-    "precache-manifest.f0a235438697ab5942a52eec5543bb86.js": "/emphasoft.project/precache-manifest.f0a235438697ab5942a52eec5543bb86.js",
+    "precache-manifest.0225fc12f918c146187346495eea4a7d.js": "/emphasoft.project/precache-manifest.0225fc12f918c146187346495eea4a7d.js",
     "service-worker.js": "/emphasoft.project/service-worker.js",
     "static/css/2.fe7cd3c1.chunk.css.map": "/emphasoft.project/static/css/2.fe7cd3c1.chunk.css.map",
     "static/css/main.3a2413b6.chunk.css.map": "/emphasoft.project/static/css/main.3a2413b6.chunk.css.map",
-    "static/js/2.23e74226.chunk.js.LICENSE.txt": "/emphasoft.project/static/js/2.23e74226.chunk.js.LICENSE.txt",
+    "static/js/2.f6b9220b.chunk.js.LICENSE.txt": "/emphasoft.project/static/js/2.f6b9220b.chunk.js.LICENSE.txt",
     "static/media/backgroundAuth.jpg": "/emphasoft.project/static/media/backgroundAuth.1610a0ff.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.4a57ac07.js",
     "static/css/2.fe7cd3c1.chunk.css",
-    "static/js/2.23e74226.chunk.js",
+    "static/js/2.f6b9220b.chunk.js",
     "static/css/main.3a2413b6.chunk.css",
-    "static/js/main.d4279fb8.chunk.js"
+    "static/js/main.f2b20c4e.chunk.js"
   ]
 }
