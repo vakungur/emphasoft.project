@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/emphasoft.project/static/css/main.3a2413b6.chunk.css",
-    "main.js": "/emphasoft.project/static/js/main.18d1d1e5.chunk.js",
-    "main.js.map": "/emphasoft.project/static/js/main.18d1d1e5.chunk.js.map",
+    "main.js": "/emphasoft.project/static/js/main.d4279fb8.chunk.js",
+    "main.js.map": "/emphasoft.project/static/js/main.d4279fb8.chunk.js.map",
     "runtime-main.js": "/emphasoft.project/static/js/runtime-main.4a57ac07.js",
     "runtime-main.js.map": "/emphasoft.project/static/js/runtime-main.4a57ac07.js.map",
     "static/css/2.fe7cd3c1.chunk.css": "/emphasoft.project/static/css/2.fe7cd3c1.chunk.css",
     "static/js/2.23e74226.chunk.js": "/emphasoft.project/static/js/2.23e74226.chunk.js",
     "static/js/2.23e74226.chunk.js.map": "/emphasoft.project/static/js/2.23e74226.chunk.js.map",
     "index.html": "/emphasoft.project/index.html",
-    "precache-manifest.ff76329b8bf9ed23fbbc8e083ee62049.js": "/emphasoft.project/precache-manifest.ff76329b8bf9ed23fbbc8e083ee62049.js",
+    "precache-manifest.c13b70f7f8b1c04ecee1f72506e4df0c.js": "/emphasoft.project/precache-manifest.c13b70f7f8b1c04ecee1f72506e4df0c.js",
     "service-worker.js": "/emphasoft.project/service-worker.js",
     "static/css/2.fe7cd3c1.chunk.css.map": "/emphasoft.project/static/css/2.fe7cd3c1.chunk.css.map",
     "static/css/main.3a2413b6.chunk.css.map": "/emphasoft.project/static/css/main.3a2413b6.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.fe7cd3c1.chunk.css",
     "static/js/2.23e74226.chunk.js",
     "static/css/main.3a2413b6.chunk.css",
-    "static/js/main.18d1d1e5.chunk.js"
+    "static/js/main.d4279fb8.chunk.js"
   ]
 }
